@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v4pnf32T2IhlyvJ7sWIQgCcB9KavOIcbXE+K6OC6RwU=",
+  "Source": "NSO",
+  "BasePath": "_content/NSO",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
